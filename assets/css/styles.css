@@ -292,20 +292,20 @@ img{
   z-index: var(--z-back);
 }
 .skills__react{
-  width: 70%;
+  width: 60%;
 }
 .skills__vue{
-  width: 65%;
+  width: 80%;
 }
 .skills__node{
   width: 85%;
 }
-.skills__android{
+.skills__golang {
   width: 50%;
 }
 
 .skills__hubspot{
-  width: 65%;
+  width: 75%;
 }
 .skills__img{
   border-radius: .5rem;
